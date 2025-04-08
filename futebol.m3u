@@ -20,13 +20,13 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21001.ts
 http://pfsv.io:80/live/epg/epg/557.ts
 #EXTINF:-1 tvg-id="SPORTV 2 ALTERNATIVO HD³" tvg-name="SPORTV 2 ALTERNATIVO HD³" tvg-logo="https://prostore.app/logos/SPORTV.png" group-title="SPORTV",SPORTV 2 ALTERNATIVO HD³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21004.ts
-#EXTINF:-1 tvg-id="BR - SPORTV2" tvg-name="SPORTV 2 [FHD]" tvg-logo="http://jrj11.com/AYH" group-title="SPORTV",SPORTV 2 [FHD]
+#EXTINF:-1 tvg-id="BR - SPORTV 2" tvg-name="SPORTV 2 [FHD]" tvg-logo="http://jrj11.com/AYH" group-title="SPORTV",SPORTV 2 [FHD]
 http://pfsv.io:80/live/epg/epg/553.ts
-#EXTINF:-1 tvg-id="BR - SPORTV2" tvg-name="SPORTV 2 [FHD][H265]" tvg-logo="http://jrj11.com/WHV" group-title="SPORTV",SPORTV 2 [FHD][H265]
+#EXTINF:-1 tvg-id="BR - SPORTV 2" tvg-name="SPORTV 2 [FHD][H265]" tvg-logo="http://jrj11.com/WHV" group-title="SPORTV",SPORTV 2 [FHD][H265]
 http://pfsv.io:80/live/epg/epg/30291.ts
-#EXTINF:-1 tvg-id="BR - SPORTV2" tvg-name="SPORTV 2 [HD]" tvg-logo="http://jrj11.com/AYK" group-title="SPORTV",SPORTV 2 [HD]
+#EXTINF:-1 tvg-id="BR - SPORTV 2" tvg-name="SPORTV 2 [HD]" tvg-logo="http://jrj11.com/AYK" group-title="SPORTV",SPORTV 2 [HD]
 http://pfsv.io:80/live/epg/epg/557.ts
-#EXTINF:-1 tvg-id="BR - SPORTV2" tvg-name="SPORTV 2 [SD]" tvg-logo="http://jrj11.com/AYN" group-title="SPORTV",SPORTV 2 [SD]
+#EXTINF:-1 tvg-id="BR - SPORTV 2" tvg-name="SPORTV 2 [SD]" tvg-logo="http://jrj11.com/AYN" group-title="SPORTV",SPORTV 2 [SD]
 http://pfsv.io:80/live/epg/epg/560.ts
 #EXTINF:-1 tvg-id="SPORTV 3 HD³" tvg-name="SPORTV 3 HD³" tvg-logo="https://prostore.app/logos/SPORTV.png" group-title="SPORTV",SPORTV 3 HD³
 http://pfsv.io:80/live/epg/epg/558.ts
@@ -132,7 +132,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20022.ts
 http://meumd.com:80/live/25101989/25101989/110333.ts
 #EXTINF:-1 tvg-id="PREMIERE 9 ALTERNATIVO HD³" tvg-name="PREMIERE 9 ALTERNATIVO HD³" tvg-logo="https://prostore.app/logos/PREMIERE.png" group-title="PREMIERE",PREMIERE 9 ALTERNATIVO HD³
 http://meumd.com:80/live/25101989/25101989/110335.ts
-#EXTINF:-1 tvg-id="ESPN1 HD³" tvg-name="ESPN 1 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",ESPN1 HD³
+#EXTINF:-1 tvg-id="ESPN1 HD³" tvg-name="ESPN HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",ESPN HD³
 http://pfsv.io:80/live/epg/epg/259.ts
 #EXTINF:-1 tvg-id="BR Globo" tvg-name="ESPN [4K]" tvg-logo="" group-title="ESPN",ESPN [4K]
 http://pfsv.io:80/live/epg/epg/50872.ts
@@ -204,3 +204,15 @@ http://pfsv.io:80/live/epg/epg/260.ts
 http://pfsv.io:80/live/epg/epg/270.ts
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1 [FHD]" tvg-logo="http://jrj11.com/AOO0" group-title="PARAMOUNT",PARAMOUNT+ 1 [FHD]
 http://pfsv.io:80/live/epg/epg/197717.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV [FHD]" tvg-logo="http://jrj11.com/VMB" group-title="YOUTUBE",CAZE TV [FHD]
+http://pfsv.io:80/live/epg/epg/55346.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT (JOGO 1)" tvg-logo="" group-title="YOUTUBE",CANAL GOAT (JOGO 1)
+http://pfsv.io:80/live/epg/epg/247232.ts
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 01³" tvg-name="NOSSO FUTEBOL 01³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="NOSSO FUTEBOL",NOSSO FUTEBOL 01³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19024.ts
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 02³" tvg-name="NOSSO FUTEBOL 02³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="NOSSO FUTEBOL",NOSSO FUTEBOL 02³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19025.ts
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 03³" tvg-name="NOSSO FUTEBOL 03³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="NOSSO FUTEBOL",NOSSO FUTEBOL 03³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19026.ts
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 04³" tvg-name="NOSSO FUTEBOL 04³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="NOSSO FUTEBOL",NOSSO FUTEBOL 04³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19027.ts

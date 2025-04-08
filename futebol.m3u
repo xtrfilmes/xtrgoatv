@@ -202,3 +202,5 @@ http://pfsv.io:80/live/epg/epg/30278.ts
 http://pfsv.io:80/live/epg/epg/260.ts
 #EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-name="ESPN EXTRA [SD]" tvg-logo="http://jrj11.com/AOT" group-title="ESPN",ESPN EXTRA [SD]
 http://pfsv.io:80/live/epg/epg/270.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1 [FHD]" tvg-logo="http://jrj11.com/AOO0" group-title="PARAMOUNT",PARAMOUNT+ 1 [FHD]
+http://pfsv.io:80/live/epg/epg/197717.ts

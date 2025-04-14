@@ -12,8 +12,6 @@ http://pfsv.io:80/live/epg/epg/556.ts
 http://pfsv.io:80/live/epg/epg/559.ts
 #EXTINF:-1 tvg-id="SPORTV HD³" tvg-name="SPORTV HD³" tvg-logo="https://prostore.app/logos/SPORTV.png" group-title="SPORTV",SPORTV HD³
 http://pfsv.io:80/live/epg/epg/556.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV [4K]" tvg-logo="" group-title="SPORTV",SPORTV [4K]
-http://pfsv.io:80/live/epg/epg/289007.ts
 #EXTINF:-1 tvg-id="SPORTV ALTERNATIVO HD³" tvg-name="SPORTV ALTERNATIVO HD³" tvg-logo="https://prostore.app/logos/SPORTV.png" group-title="SPORTV",SPORTV ALTERNATIVO HD³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21001.ts
 #EXTINF:-1 tvg-id="SPORTV 2 HD³" tvg-name="SPORTV 2 HD³" tvg-logo="https://prostore.app/logos/SPORTV.png" group-title="SPORTV",SPORTV 2 HD³

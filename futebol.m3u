@@ -200,17 +200,33 @@ http://pfsv.io:80/live/epg/epg/30278.ts
 http://pfsv.io:80/live/epg/epg/260.ts
 #EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-name="ESPN EXTRA [SD]" tvg-logo="http://jrj11.com/AOT" group-title="ESPN",ESPN EXTRA [SD]
 http://pfsv.io:80/live/epg/epg/270.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1 [FHD]" tvg-logo="http://jrj11.com/AOO0" group-title="PARAMOUNT",PARAMOUNT+ 1 [FHD]
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1 [FHD]" tvg-logo="http://jrj11.com/AOO0" group-title="ESPORTE",PARAMOUNT+ 1 [FHD]
 http://pfsv.io:80/live/epg/epg/197717.ts
-#EXTINF:-1 tvg-id="" tvg-name="CAZE TV [FHD]" tvg-logo="http://jrj11.com/VMB" group-title="YOUTUBE",CAZE TV [FHD]
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV [FHD]" tvg-logo="http://jrj11.com/VMB" group-title="ESPORTE",CAZE TV [FHD]
 http://pfsv.io:80/live/epg/epg/55346.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT (JOGO 1)" tvg-logo="" group-title="YOUTUBE",CANAL GOAT (JOGO 1)
-http://pfsv.io:80/live/epg/epg/247232.ts
-#EXTINF:-1 tvg-id="NOSSO FUTEBOL 01³" tvg-name="NOSSO FUTEBOL 01³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="NOSSO FUTEBOL",NOSSO FUTEBOL 01³
+#EXTINF:-1 tvg-id="GOAT 1³" tvg-name="GOAT 1" tvg-logo="https://imgur.com/KlMpCWS.png" group-title="ESPORTE",GOAT 1³
+http://7vnx.xyz:80/live/cristinaitalia/23414132/320629.ts
+#EXTINF:-1 tvg-id="GOAT 2³" tvg-name="GOAT 2" tvg-logo="https://imgur.com/KlMpCWS.png" group-title="ESPORTE",GOAT 2³
+http://7vnx.xyz:80/live/cristinaitalia/23414132/320630.ts
+#EXTINF:-1 tvg-id="GOAT 3³" tvg-name="GOAT 3" tvg-logo="https://imgur.com/KlMpCWS.png" group-title="ESPORTE",GOAT 3³
+http://5ce.co:80/live/2845paulinho/130580a/237088.ts
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 01³" tvg-name="NOSSO FUTEBOL 01" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="ESPORTE",NOSSO FUTEBOL 01³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19024.ts
-#EXTINF:-1 tvg-id="NOSSO FUTEBOL 02³" tvg-name="NOSSO FUTEBOL 02³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="NOSSO FUTEBOL",NOSSO FUTEBOL 02³
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 02³" tvg-name="NOSSO FUTEBOL 02" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="ESPORTE",NOSSO FUTEBOL 02³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19025.ts
-#EXTINF:-1 tvg-id="NOSSO FUTEBOL 03³" tvg-name="NOSSO FUTEBOL 03³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="NOSSO FUTEBOL",NOSSO FUTEBOL 03³
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 03³" tvg-name="NOSSO FUTEBOL 03" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="ESPORTE",NOSSO FUTEBOL 03³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19026.ts
-#EXTINF:-1 tvg-id="NOSSO FUTEBOL 04³" tvg-name="NOSSO FUTEBOL 04³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="NOSSO FUTEBOL",NOSSO FUTEBOL 04³
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL 04³" tvg-name="NOSSO FUTEBOL 04" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="ESPORTE",NOSSO FUTEBOL 04³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19027.ts
+#EXTINF:-1 tvg-id="MAX HD³" tvg-name="MAX 1 HD" tvg-logo="http://www.fontedecanais.app/logos/canais/max.png" group-title="ESPORTE",MAX HD³
+http://pfsv.io:80/live/epg/epg/199969.ts
+#EXTINF:-1 tvg-id="MAX 2 HD³" tvg-name="MAX 2 HD" tvg-logo="http://www.fontedecanais.app/logos/canais/max.png" group-title="ESPORTE",MAX 2 HD³
+http://pfsv.io:80/live/epg/epg/199968.ts
+#EXTINF:-1 tvg-id="MAX 3 HD³" tvg-name="MAX 3 HD" tvg-logo="http://www.fontedecanais.app/logos/canais/max.png" group-title="ESPORTE",MAX 3 HD³
+http://pfsv.io:80/live/epg/epg/199967.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 01" tvg-logo="http://www.fontedecanais.vip/logos/canais/primevideo.png" group-title="ESPORTE",Amazon Prime Video 01³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19021.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 02" tvg-logo="http://www.fontedecanais.vip/logos/canais/primevideo.png" group-title="ESPORTE",Amazon Prime Video 02³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19022.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 03" tvg-logo="http://www.fontedecanais.vip/logos/canais/primevideo.png" group-title="ESPORTE",Amazon Prime Video 03³
+http://pfsv.io:80/live/epg/epg/208971.ts

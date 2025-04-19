@@ -1,43 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="BR - SPORTV" tvg-name="SPORTV [4K]" tvg-logo="http://jrj11.com/AZN" group-title="SPORTV",SPORTV [4K]
-http://pfsv.io:80/live/epg/epg/589.ts
-#EXTINF:-1 tvg-id="BR - SPORTV" tvg-name="SPORTV [FHD]" tvg-logo="http://jrj11.com/AYI" group-title="SPORTV",SPORTV [FHD]
-http://pfsv.io:80/live/epg/epg/555.ts
-#EXTINF:-1 tvg-id="BR - SPORTV" tvg-name="SPORTV [FHD][H265]" tvg-logo="http://jrj11.com/WHX" group-title="SPORTV",SPORTV [FHD][H265]
-http://pfsv.io:80/live/epg/epg/30293.ts
-#EXTINF:-1 tvg-id="BR - SPORTV" tvg-name="SPORTV [HD]" tvg-logo="http://jrj11.com/AYJ" group-title="SPORTV",SPORTV [HD]
-http://pfsv.io:80/live/epg/epg/556.ts
-#EXTINF:-1 tvg-id="BR - SPORTV" tvg-name="SPORTV [SD]" tvg-logo="http://jrj11.com/AYM" group-title="SPORTV",SPORTV [SD]
-http://pfsv.io:80/live/epg/epg/559.ts
-#EXTINF:-1 tvg-id="SPORTV HD³" tvg-name="SPORTV HD³" tvg-logo="https://prostore.app/logos/SPORTV.png" group-title="SPORTV",SPORTV HD³
-http://pfsv.io:80/live/epg/epg/556.ts
-#EXTINF:-1 tvg-id="SPORTV ALTERNATIVO HD³" tvg-name="SPORTV ALTERNATIVO HD³" tvg-logo="https://prostore.app/logos/SPORTV.png" group-title="SPORTV",SPORTV ALTERNATIVO HD³
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21001.ts
-#EXTINF:-1 tvg-id="SPORTV 2 HD³" tvg-name="SPORTV 2 HD³" tvg-logo="https://prostore.app/logos/SPORTV.png" group-title="SPORTV",SPORTV 2 HD³
-http://pfsv.io:80/live/epg/epg/557.ts
-#EXTINF:-1 tvg-id="SPORTV 2 ALTERNATIVO HD³" tvg-name="SPORTV 2 ALTERNATIVO HD³" tvg-logo="https://prostore.app/logos/SPORTV.png" group-title="SPORTV",SPORTV 2 ALTERNATIVO HD³
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21004.ts
-#EXTINF:-1 tvg-id="BR - SPORTV 2" tvg-name="SPORTV 2 [FHD]" tvg-logo="http://jrj11.com/AYH" group-title="SPORTV",SPORTV 2 [FHD]
-http://pfsv.io:80/live/epg/epg/553.ts
-#EXTINF:-1 tvg-id="BR - SPORTV 2" tvg-name="SPORTV 2 [FHD][H265]" tvg-logo="http://jrj11.com/WHV" group-title="SPORTV",SPORTV 2 [FHD][H265]
-http://pfsv.io:80/live/epg/epg/30291.ts
-#EXTINF:-1 tvg-id="BR - SPORTV 2" tvg-name="SPORTV 2 [HD]" tvg-logo="http://jrj11.com/AYK" group-title="SPORTV",SPORTV 2 [HD]
-http://pfsv.io:80/live/epg/epg/557.ts
-#EXTINF:-1 tvg-id="BR - SPORTV 2" tvg-name="SPORTV 2 [SD]" tvg-logo="http://jrj11.com/AYN" group-title="SPORTV",SPORTV 2 [SD]
-http://pfsv.io:80/live/epg/epg/560.ts
-#EXTINF:-1 tvg-id="SPORTV 3 HD³" tvg-name="SPORTV 3 HD³" tvg-logo="https://prostore.app/logos/SPORTV.png" group-title="SPORTV",SPORTV 3 HD³
-http://pfsv.io:80/live/epg/epg/558.ts
-#EXTINF:-1 tvg-id="SPORTV 3 ALTERNATIVO HD³" tvg-name="SPORTV 3 ALTERNATIVO HD³" tvg-logo="https://prostore.app/logos/SPORTV.png" group-title="SPORTV",SPORTV 3 ALTERNATIVO HD³
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21007.ts
-#EXTINF:-1 tvg-id="BR - SPORTV3" tvg-name="SPORTV 3 [FHD]" tvg-logo="http://jrj11.com/WGW" group-title="SPORTV",SPORTV 3 [FHD]
-http://pfsv.io:80/live/epg/epg/554.ts
-#EXTINF:-1 tvg-id="BR - SPORTV3" tvg-name="SPORTV 3 [FHD][H265]" tvg-logo="http://jrj11.com/WHW" group-title="SPORTV",SPORTV 3 [FHD][H265]
-http://pfsv.io:80/live/epg/epg/30292.ts
-#EXTINF:-1 tvg-id="BR - SPORTV3" tvg-name="SPORTV 3 [HD]" tvg-logo="http://jrj11.com/AYL" group-title="SPORTV",SPORTV 3 [HD]
-http://pfsv.io:80/live/epg/epg/558.ts
-#EXTINF:-1 tvg-id="BR - SPORTV3" tvg-name="SPORTV 3 [SD]" tvg-logo="http://jrj11.com/AYO" group-title="SPORTV",SPORTV 3 [SD]
-http://pfsv.io:80/live/epg/epg/561.ts
 #EXTINF:-1 tvg-id="BR PREMIERE Clubes" tvg-name="PREMIERE CLUBES [FHD]" tvg-logo="http://jrj11.com/AXI" group-title="PREMIERE",PREMIERE CLUBES [FHD]
 http://pfsv.io:80/live/epg/epg/524.ts
 #EXTINF:-1 tvg-id="BR PREMIERE Clubes" tvg-name="PREMIERE CLUBES [FHD][H265]" tvg-logo="http://jrj11.com/VTA" group-title="PREMIERE",PREMIERE CLUBES [FHD][H265]
@@ -130,6 +92,44 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20022.ts
 http://meumd.com:80/live/25101989/25101989/110333.ts
 #EXTINF:-1 tvg-id="PREMIERE 9 ALTERNATIVO HD³" tvg-name="PREMIERE 9 ALTERNATIVO HD³" tvg-logo="https://prostore.app/logos/PREMIERE.png" group-title="PREMIERE",PREMIERE 9 ALTERNATIVO HD³
 http://meumd.com:80/live/25101989/25101989/110335.ts
+#EXTINF:-1 tvg-id="BR - SPORTV" tvg-name="SPORTV [4K]" tvg-logo="http://jrj11.com/AZN" group-title="SPORTV",SPORTV [4K]
+http://pfsv.io:80/live/epg/epg/589.ts
+#EXTINF:-1 tvg-id="BR - SPORTV" tvg-name="SPORTV [FHD]" tvg-logo="http://jrj11.com/AYI" group-title="SPORTV",SPORTV [FHD]
+http://pfsv.io:80/live/epg/epg/555.ts
+#EXTINF:-1 tvg-id="BR - SPORTV" tvg-name="SPORTV [FHD][H265]" tvg-logo="http://jrj11.com/WHX" group-title="SPORTV",SPORTV [FHD][H265]
+http://pfsv.io:80/live/epg/epg/30293.ts
+#EXTINF:-1 tvg-id="BR - SPORTV" tvg-name="SPORTV [HD]" tvg-logo="http://jrj11.com/AYJ" group-title="SPORTV",SPORTV [HD]
+http://pfsv.io:80/live/epg/epg/556.ts
+#EXTINF:-1 tvg-id="BR - SPORTV" tvg-name="SPORTV [SD]" tvg-logo="http://jrj11.com/AYM" group-title="SPORTV",SPORTV [SD]
+http://pfsv.io:80/live/epg/epg/559.ts
+#EXTINF:-1 tvg-id="SPORTV HD³" tvg-name="SPORTV HD³" tvg-logo="https://prostore.app/logos/SPORTV.png" group-title="SPORTV",SPORTV HD³
+http://pfsv.io:80/live/epg/epg/556.ts
+#EXTINF:-1 tvg-id="SPORTV ALTERNATIVO HD³" tvg-name="SPORTV ALTERNATIVO HD³" tvg-logo="https://prostore.app/logos/SPORTV.png" group-title="SPORTV",SPORTV ALTERNATIVO HD³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21001.ts
+#EXTINF:-1 tvg-id="SPORTV 2 HD³" tvg-name="SPORTV 2 HD³" tvg-logo="https://prostore.app/logos/SPORTV.png" group-title="SPORTV",SPORTV 2 HD³
+http://pfsv.io:80/live/epg/epg/557.ts
+#EXTINF:-1 tvg-id="SPORTV 2 ALTERNATIVO HD³" tvg-name="SPORTV 2 ALTERNATIVO HD³" tvg-logo="https://prostore.app/logos/SPORTV.png" group-title="SPORTV",SPORTV 2 ALTERNATIVO HD³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21004.ts
+#EXTINF:-1 tvg-id="BR - SPORTV 2" tvg-name="SPORTV 2 [FHD]" tvg-logo="http://jrj11.com/AYH" group-title="SPORTV",SPORTV 2 [FHD]
+http://pfsv.io:80/live/epg/epg/553.ts
+#EXTINF:-1 tvg-id="BR - SPORTV 2" tvg-name="SPORTV 2 [FHD][H265]" tvg-logo="http://jrj11.com/WHV" group-title="SPORTV",SPORTV 2 [FHD][H265]
+http://pfsv.io:80/live/epg/epg/30291.ts
+#EXTINF:-1 tvg-id="BR - SPORTV 2" tvg-name="SPORTV 2 [HD]" tvg-logo="http://jrj11.com/AYK" group-title="SPORTV",SPORTV 2 [HD]
+http://pfsv.io:80/live/epg/epg/557.ts
+#EXTINF:-1 tvg-id="BR - SPORTV 2" tvg-name="SPORTV 2 [SD]" tvg-logo="http://jrj11.com/AYN" group-title="SPORTV",SPORTV 2 [SD]
+http://pfsv.io:80/live/epg/epg/560.ts
+#EXTINF:-1 tvg-id="SPORTV 3 HD³" tvg-name="SPORTV 3 HD³" tvg-logo="https://prostore.app/logos/SPORTV.png" group-title="SPORTV",SPORTV 3 HD³
+http://pfsv.io:80/live/epg/epg/558.ts
+#EXTINF:-1 tvg-id="SPORTV 3 ALTERNATIVO HD³" tvg-name="SPORTV 3 ALTERNATIVO HD³" tvg-logo="https://prostore.app/logos/SPORTV.png" group-title="SPORTV",SPORTV 3 ALTERNATIVO HD³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21007.ts
+#EXTINF:-1 tvg-id="BR - SPORTV3" tvg-name="SPORTV 3 [FHD]" tvg-logo="http://jrj11.com/WGW" group-title="SPORTV",SPORTV 3 [FHD]
+http://pfsv.io:80/live/epg/epg/554.ts
+#EXTINF:-1 tvg-id="BR - SPORTV3" tvg-name="SPORTV 3 [FHD][H265]" tvg-logo="http://jrj11.com/WHW" group-title="SPORTV",SPORTV 3 [FHD][H265]
+http://pfsv.io:80/live/epg/epg/30292.ts
+#EXTINF:-1 tvg-id="BR - SPORTV3" tvg-name="SPORTV 3 [HD]" tvg-logo="http://jrj11.com/AYL" group-title="SPORTV",SPORTV 3 [HD]
+http://pfsv.io:80/live/epg/epg/558.ts
+#EXTINF:-1 tvg-id="BR - SPORTV3" tvg-name="SPORTV 3 [SD]" tvg-logo="http://jrj11.com/AYO" group-title="SPORTV",SPORTV 3 [SD]
+http://pfsv.io:80/live/epg/epg/561.ts
 #EXTINF:-1 tvg-id="ESPN1 HD³" tvg-name="ESPN HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",ESPN HD³
 http://pfsv.io:80/live/epg/epg/259.ts
 #EXTINF:-1 tvg-id="BR Globo" tvg-name="ESPN [4K]" tvg-logo="" group-title="ESPN",ESPN [4K]
@@ -200,6 +200,44 @@ http://pfsv.io:80/live/epg/epg/30278.ts
 http://pfsv.io:80/live/epg/epg/260.ts
 #EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-name="ESPN EXTRA [SD]" tvg-logo="http://jrj11.com/AOT" group-title="ESPN",ESPN EXTRA [SD]
 http://pfsv.io:80/live/epg/epg/270.ts
+#EXTINF:-1 tvg-id="MAX HD³" tvg-name="MAX 1 HD" tvg-logo="http://www.fontedecanais.app/logos/canais/max.png" group-title="MAX",MAX 1 HD
+http://pfsv.io:80/live/epg/epg/199969.ts
+#EXTINF:-1 tvg-id="MAX 2 HD³" tvg-name="MAX 2 HD" tvg-logo="http://www.fontedecanais.app/logos/canais/max.png" group-title="MAX",MAX 2 HD
+http://pfsv.io:80/live/epg/epg/199968.ts
+#EXTINF:-1 tvg-id="MAX 3 HD³" tvg-name="MAX 3 HD" tvg-logo="http://www.fontedecanais.app/logos/canais/max.png" group-title="MAX",MAX 3 HD
+http://pfsv.io:80/live/epg/epg/199967.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime 01 [FHD]" tvg-logo="http://jrj11.com/DPF5" group-title="PRIME",Prime 01 [FHD]
+http://pfsv.io:80/live/epg/epg/208972.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 01" tvg-logo="http://www.fontedecanais.vip/logos/canais/primevideo.png" group-title="PRIME",PRIME 01
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19021.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime 01 [HD]" tvg-logo="http://jrj11.com/DPE5" group-title="PRIME",Prime 01 [HD]
+http://pfsv.io:80/live/epg/epg/208962.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime 01 [SD]" tvg-logo="http://jrj11.com/DPE7" group-title="PRIME",Prime 01 [SD]
+http://pfsv.io:80/live/epg/epg/208964.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 02" tvg-logo="http://www.fontedecanais.vip/logos/canais/primevideo.png" group-title="PRIME",PRIME 02
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19022.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime 02 [FHD]" tvg-logo="http://jrj11.com/DPF6" group-title="PRIME",Prime 02 [FHD]
+http://pfsv.io:80/live/epg/epg/208973.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime 02 [HD]" tvg-logo="http://jrj11.com/DPE6" group-title="PRIME",Prime 02 [HD]
+http://pfsv.io:80/live/epg/epg/208963.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime 02 [SD]" tvg-logo="http://jrj11.com/DPE8" group-title="PRIME",Prime 02 [SD]
+http://pfsv.io:80/live/epg/epg/208965.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 03" tvg-logo="http://www.fontedecanais.vip/logos/canais/primevideo.png" group-title="PRIME",PRIME 03
+http://pfsv.io:80/live/epg/epg/208971.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime 03 [FHD]" tvg-logo="http://jrj11.com/DPF4" group-title="PRIME",Prime 03 [FHD]
+http://pfsv.io:80/live/epg/epg/208971.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime 03 [HD]" tvg-logo="http://jrj11.com/DPF3" group-title="PRIME",Prime 03 [HD]
+http://pfsv.io:80/live/epg/epg/208970.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime 03 [SD]" tvg-logo="http://jrj11.com/DPF2" group-title="PRIME",Prime 03 [SD]
+http://pfsv.io:80/live/epg/epg/208969.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime 04 [FHD]" tvg-logo="http://jrj11.com/DPF1" group-title="PRIME",Prime 04 [FHD]
+http://pfsv.io:80/live/epg/epg/208968.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime 04 [HD]" tvg-logo="http://jrj11.com/DPF0" group-title="PRIME",Prime 04 [HD]
+http://pfsv.io:80/live/epg/epg/208967.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime 04 [SD]" tvg-logo="http://jrj11.com/DPE9" group-title="PRIME",Prime 04 [SD]
+http://pfsv.io:80/live/epg/epg/208966.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime 05 [FHD]" tvg-logo="http://jrj11.com/DPF7" group-title="PRIME",Prime 05 [FHD]
+http://pfsv.io:80/live/epg/epg/210171.ts
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1 [FHD]" tvg-logo="http://jrj11.com/AOO0" group-title="ESPORTE",PARAMOUNT+ 1 [FHD]
 http://pfsv.io:80/live/epg/epg/197717.ts
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV [FHD]" tvg-logo="http://jrj11.com/VMB" group-title="ESPORTE",CAZE TV [FHD]
@@ -218,15 +256,3 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19025.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19026.ts
 #EXTINF:-1 tvg-id="NOSSO FUTEBOL 04³" tvg-name="NOSSO FUTEBOL 04" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="ESPORTE",NOSSO FUTEBOL 04³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19027.ts
-#EXTINF:-1 tvg-id="MAX HD³" tvg-name="MAX 1 HD" tvg-logo="http://www.fontedecanais.app/logos/canais/max.png" group-title="ESPORTE",MAX 1 HD
-http://pfsv.io:80/live/epg/epg/199969.ts
-#EXTINF:-1 tvg-id="MAX 2 HD³" tvg-name="MAX 2 HD" tvg-logo="http://www.fontedecanais.app/logos/canais/max.png" group-title="ESPORTE",MAX 2 HD
-http://pfsv.io:80/live/epg/epg/199968.ts
-#EXTINF:-1 tvg-id="MAX 3 HD³" tvg-name="MAX 3 HD" tvg-logo="http://www.fontedecanais.app/logos/canais/max.png" group-title="ESPORTE",MAX 3 HD
-http://pfsv.io:80/live/epg/epg/199967.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 01" tvg-logo="http://www.fontedecanais.vip/logos/canais/primevideo.png" group-title="ESPORTE",PRIME VIDEO 01
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19021.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 02" tvg-logo="http://www.fontedecanais.vip/logos/canais/primevideo.png" group-title="ESPORTE",PRIME VIDEO 02
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19022.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 03" tvg-logo="http://www.fontedecanais.vip/logos/canais/primevideo.png" group-title="ESPORTE",PRIME VIDEO 03
-http://pfsv.io:80/live/epg/epg/208971.ts

@@ -204,11 +204,11 @@ http://pfsv.io:80/live/epg/epg/270.ts
 http://pfsv.io:80/live/epg/epg/197717.ts
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV [FHD]" tvg-logo="http://jrj11.com/VMB" group-title="ESPORTE",CAZE TV [FHD]
 http://pfsv.io:80/live/epg/epg/55346.ts
-#EXTINF:-1 tvg-id="GOAT 1³" tvg-name="GOAT 1" tvg-logo="https://imgur.com/KlMpCWS.png" group-title="ESPORTE",GOAT 1³
+#EXTINF:-1 tvg-id="GOAT 1³" tvg-name="GOAT 1" tvg-logo="https://imgur.com/KlMpCWS.png" group-title="ESPORTE",GOAT 1
 http://7vnx.xyz:80/live/cristinaitalia/23414132/320629.ts
-#EXTINF:-1 tvg-id="GOAT 2³" tvg-name="GOAT 2" tvg-logo="https://imgur.com/KlMpCWS.png" group-title="ESPORTE",GOAT 2³
+#EXTINF:-1 tvg-id="GOAT 2³" tvg-name="GOAT 2" tvg-logo="https://imgur.com/KlMpCWS.png" group-title="ESPORTE",GOAT 2
 http://7vnx.xyz:80/live/cristinaitalia/23414132/320630.ts
-#EXTINF:-1 tvg-id="GOAT 3³" tvg-name="GOAT 3" tvg-logo="https://imgur.com/KlMpCWS.png" group-title="ESPORTE",GOAT 3³
+#EXTINF:-1 tvg-id="GOAT 3³" tvg-name="GOAT 3" tvg-logo="https://imgur.com/KlMpCWS.png" group-title="ESPORTE",GOAT 3
 http://5ce.co:80/live/2845paulinho/130580a/237088.ts
 #EXTINF:-1 tvg-id="NOSSO FUTEBOL 01³" tvg-name="NOSSO FUTEBOL 01" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="ESPORTE",NOSSO FUTEBOL 01³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19024.ts
@@ -218,15 +218,15 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19025.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19026.ts
 #EXTINF:-1 tvg-id="NOSSO FUTEBOL 04³" tvg-name="NOSSO FUTEBOL 04" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="ESPORTE",NOSSO FUTEBOL 04³
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19027.ts
-#EXTINF:-1 tvg-id="MAX HD³" tvg-name="MAX 1 HD" tvg-logo="http://www.fontedecanais.app/logos/canais/max.png" group-title="ESPORTE",MAX HD³
+#EXTINF:-1 tvg-id="MAX HD³" tvg-name="MAX 1 HD" tvg-logo="http://www.fontedecanais.app/logos/canais/max.png" group-title="ESPORTE",MAX 1 HD
 http://pfsv.io:80/live/epg/epg/199969.ts
-#EXTINF:-1 tvg-id="MAX 2 HD³" tvg-name="MAX 2 HD" tvg-logo="http://www.fontedecanais.app/logos/canais/max.png" group-title="ESPORTE",MAX 2 HD³
+#EXTINF:-1 tvg-id="MAX 2 HD³" tvg-name="MAX 2 HD" tvg-logo="http://www.fontedecanais.app/logos/canais/max.png" group-title="ESPORTE",MAX 2 HD
 http://pfsv.io:80/live/epg/epg/199968.ts
-#EXTINF:-1 tvg-id="MAX 3 HD³" tvg-name="MAX 3 HD" tvg-logo="http://www.fontedecanais.app/logos/canais/max.png" group-title="ESPORTE",MAX 3 HD³
+#EXTINF:-1 tvg-id="MAX 3 HD³" tvg-name="MAX 3 HD" tvg-logo="http://www.fontedecanais.app/logos/canais/max.png" group-title="ESPORTE",MAX 3 HD
 http://pfsv.io:80/live/epg/epg/199967.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 01" tvg-logo="http://www.fontedecanais.vip/logos/canais/primevideo.png" group-title="ESPORTE",Amazon Prime Video 01³
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 01" tvg-logo="http://www.fontedecanais.vip/logos/canais/primevideo.png" group-title="ESPORTE",PRIME VIDEO 01
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19021.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 02" tvg-logo="http://www.fontedecanais.vip/logos/canais/primevideo.png" group-title="ESPORTE",Amazon Prime Video 02³
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 02" tvg-logo="http://www.fontedecanais.vip/logos/canais/primevideo.png" group-title="ESPORTE",PRIME VIDEO 02
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19022.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 03" tvg-logo="http://www.fontedecanais.vip/logos/canais/primevideo.png" group-title="ESPORTE",Amazon Prime Video 03³
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 03" tvg-logo="http://www.fontedecanais.vip/logos/canais/primevideo.png" group-title="ESPORTE",PRIME VIDEO 03
 http://pfsv.io:80/live/epg/epg/208971.ts
